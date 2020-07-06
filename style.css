@@ -24,5 +24,8 @@ a{
 }
 body{
   background-image: url("back1.jpg");
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
 
 }
