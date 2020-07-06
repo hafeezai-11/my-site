@@ -1,0 +1,22 @@
+p{
+
+  font-size: 30px;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 100px;
+
+}
+body{
+
+}
+a{
+  color: black;
+
+}
+.me{
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }

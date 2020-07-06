@@ -1,0 +1,28 @@
+.head h1{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.head{
+  background-color: black;
+  height: 50px;
+ 
+
+
+}
+a{
+  align-content: center;
+  text-transform: uppercase;
+  background-color: black;
+  color: red;
+}
+.link{
+  background-color: black;
+  text-align: center;
+  border-radius: 150px;
+}
+body{
+  background-image: url("back1.jpg");
+
+}
